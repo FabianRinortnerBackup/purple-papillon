@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "purple-papillon-dev": {
+      "hosting": {
+        "purple-papillon-website": [
+          "purple-papillon-dev"
+        ]
+      }
+    }
+  }
+}
